@@ -1,0 +1,11 @@
+{
+    "name": "junior-dev-tutor",
+    "description": "Junior dev tutor skill for Claude Code",
+    "version": "1.0.0",
+    "skills": [
+      {
+        "name": "junior-dev-tutor",
+        "path": "SKILL.md"
+      }
+    ]
+}
